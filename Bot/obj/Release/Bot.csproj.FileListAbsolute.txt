@@ -1,0 +1,114 @@
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\bin\Release\Bot.exe.config
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\bin\Release\Bot.exe
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\bin\Release\Bot.pdb
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\bin\Release\MarkdownSharp.dll
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\bin\Release\Newtonsoft.Json.dll
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\bin\Release\RestSharp.dll
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\bin\Release\Telegram.Bot.dll
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\bin\Release\MarkdownSharp.xml
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\bin\Release\Newtonsoft.Json.xml
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\bin\Release\RestSharp.xml
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\bin\Release\Telegram.Bot.xml
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\obj\Release\Bot.csprojAssemblyReference.cache
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\obj\Release\Bot.Bot.resources
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\obj\Release\Bot.Properties.Resources.resources
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\obj\Release\Bot.csproj.GenerateResource.cache
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\obj\Release\Bot.csproj.CoreCompileInputs.cache
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\obj\Release\Bot.csproj.CopyComplete
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\obj\Release\Bot.exe
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot\Bot\obj\Release\Bot.pdb
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\bin\Release\Bot.exe.config
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\bin\Release\Bot.exe
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\bin\Release\Bot.pdb
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\bin\Release\MarkdownSharp.dll
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\bin\Release\Newtonsoft.Json.dll
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\bin\Release\RestSharp.dll
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\bin\Release\Telegram.Bot.dll
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\bin\Release\MarkdownSharp.xml
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\bin\Release\Newtonsoft.Json.xml
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\bin\Release\RestSharp.xml
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\bin\Release\Telegram.Bot.xml
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\obj\Release\Bot.csprojAssemblyReference.cache
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\obj\Release\Bot.Bot.resources
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\obj\Release\Bot.Properties.Resources.resources
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\obj\Release\Bot.csproj.GenerateResource.cache
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\obj\Release\Bot.csproj.CoreCompileInputs.cache
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\obj\Release\Bot.csproj.CopyComplete
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\obj\Release\Bot.exe
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v2\Bot\obj\Release\Bot.pdb
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\bin\Release\Bot.exe.config
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\bin\Release\Bot.exe
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\bin\Release\Bot.pdb
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\bin\Release\MarkdownSharp.dll
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\bin\Release\Newtonsoft.Json.dll
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\bin\Release\RestSharp.dll
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\bin\Release\Telegram.Bot.dll
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\bin\Release\MarkdownSharp.xml
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\bin\Release\Newtonsoft.Json.xml
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\bin\Release\RestSharp.xml
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\bin\Release\Telegram.Bot.xml
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\obj\Release\Bot.Bot.resources
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\obj\Release\Bot.Properties.Resources.resources
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\obj\Release\Bot.csproj.GenerateResource.cache
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\obj\Release\Bot.csproj.CoreCompileInputs.cache
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\obj\Release\Bot.csproj.CopyComplete
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\obj\Release\Bot.exe
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\obj\Release\Bot.pdb
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v3\Bot\obj\Release\Bot.csprojAssemblyReference.cache
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\bin\Release\Bot.exe.config
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\bin\Release\Bot.exe
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\bin\Release\Bot.pdb
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\bin\Release\MarkdownSharp.dll
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\bin\Release\Newtonsoft.Json.dll
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\bin\Release\RestSharp.dll
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\bin\Release\Telegram.Bot.dll
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\bin\Release\MarkdownSharp.xml
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\bin\Release\Newtonsoft.Json.xml
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\bin\Release\RestSharp.xml
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\bin\Release\Telegram.Bot.xml
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\obj\Release\Bot.csprojAssemblyReference.cache
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\obj\Release\Bot.Bot.resources
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\obj\Release\Bot.Properties.Resources.resources
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\obj\Release\Bot.csproj.GenerateResource.cache
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\obj\Release\Bot.csproj.CoreCompileInputs.cache
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\obj\Release\Bot.csproj.CopyComplete
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\obj\Release\Bot.exe
+C:\Users\Rooz\Documents\Visual Studio 2019\Bot v4\Bot\obj\Release\Bot.pdb
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\Bot.exe.config
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\Bot.exe
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\Bot.pdb
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\MarkdownSharp.dll
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\Newtonsoft.Json.dll
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\RestSharp.dll
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\Telegram.Bot.dll
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\MarkdownSharp.xml
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\Newtonsoft.Json.xml
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\RestSharp.xml
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\Telegram.Bot.xml
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\obj\Release\Bot.csproj.AssemblyReference.cache
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\obj\Release\Bot.Bot.resources
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\obj\Release\Bot.Properties.Resources.resources
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\obj\Release\Bot.csproj.GenerateResource.cache
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\obj\Release\Bot.csproj.CoreCompileInputs.cache
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\obj\Release\Bot.csproj.CopyComplete
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\obj\Release\Bot.exe
+D:\programming\c#\projects\Quiz Telegram Bot\Quiz Bot\Bot\obj\Release\Bot.pdb
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\Bot.exe.config
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\Bot.exe
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\Bot.pdb
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\MarkdownSharp.dll
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\Newtonsoft.Json.dll
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\RestSharp.dll
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\Telegram.Bot.dll
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\MarkdownSharp.xml
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\Newtonsoft.Json.xml
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\RestSharp.xml
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\bin\Release\Telegram.Bot.xml
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\obj\Release\Bot.Bot.resources
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\obj\Release\Bot.Properties.Resources.resources
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\obj\Release\Bot.csproj.GenerateResource.cache
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\obj\Release\Bot.csproj.CoreCompileInputs.cache
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\obj\Release\Bot.csproj.CopyComplete
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\obj\Release\Bot.exe
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\obj\Release\Bot.pdb
+E:\programming\c#\projects\Quiz24\Quiz Telegram Bot\Quiz Bot\Bot\obj\Release\Bot.csprojAssemblyReference.cache
